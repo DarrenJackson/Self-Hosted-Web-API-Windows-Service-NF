@@ -67,7 +67,7 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\RadioService.Core\ExampleService.Core.csproj">
+    <ProjectReference Include="..\ExampleService.Core\ExampleService.Core.csproj">
       <Project>{01BB4553-938C-4420-931C-EE497967E95C}</Project>
       <Name>ExampleService.Core</Name>
     </ProjectReference>
